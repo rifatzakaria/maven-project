@@ -1,0 +1,9 @@
+homePageTest\HomePageFeatures.class
+Runner\RunTest.class
+xPathLocators\HomePageXpath.class
+appFunctions\RegistrasionFunctions.class
+appFunctions\HomePageFunctions.class
+homePageTest\SignUpTests.class
+xPathLocators\RegistrationPageXpath.class
+driverFactory\DriverBase.class
+Util\MyUtils.class
